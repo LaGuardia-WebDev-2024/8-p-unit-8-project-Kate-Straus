@@ -16,6 +16,8 @@ draw = function(){
 mouseClicked = function(){
 
 }
+float bubbleY = random(50, 350);
+drawBubble(100, bubbleY, 20, color(200, 255, 255));
 
 //🟡drawFish Function - will run when called
 var drawFish = function(fishX, fishY, fishColor){
