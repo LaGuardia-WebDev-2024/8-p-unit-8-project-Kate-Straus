@@ -22,5 +22,24 @@ h1{
   border: 5px solid white;
 }
 
+#caption {
+  font-size: 18px;
+  color: navy;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: lightblue;
+  border: none;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.footer {
+  color: #003366;
+  font-style: italic;
+  margin-top: 20px;
+}
+
 
 
